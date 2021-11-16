@@ -5,9 +5,12 @@ AlzGenPred is a [CatBoost](https://catboost.ai/) based method developed by using
 The complete dataset used in training and testing the developed method can be downloaded from http://bioinfoindia.org/PMTPred/download.html
 
 # Usage:
+
+<h5>Download complete repository of AlzGenPred by git clone https://github.com/shuklarohit815/AlzGenPred </h5>
+
 <h3> Dependencies </h3>
 
-This software requires the Python 3.0 or above to be install on your system. If you donot have Python in your system so please install the python by using this link https://www.python.org/downloads/. Then install the following dependencies by typing the below given command.
+Before executing this program please install all the dependencies. This software requires the Python 3.0 or above to be install on your system. If you donot have Python in your system so please install the python by using this link https://www.python.org/downloads/. Then install the following dependencies by typing the below given command.
 
     $ pip install dependency_name
 
