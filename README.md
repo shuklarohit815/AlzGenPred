@@ -17,7 +17,11 @@ This software requires the Python 3.0 or above to be install on your system. If 
 4. Scikit-learn
 5. CatBoost
 
-    After successful installation of all the dependencies, execute the “AlzGenPred.py” script using the below given command from any editor. The AlzGenPred.py and topological_features.csv are available in this repository.
+After that invoke the tool with the below given command for detail help.
+![Usage](AlzGenPred_usage.png)
+
+
+After successful installation of all the dependencies, execute the “AlzGenPred.py” script using the below given command from any editor. The AlzGenPred.py and topological_features.csv are available in this repository.
 
         $ python AlzGenPred.py --file topological_features.csv
 
