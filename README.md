@@ -1,5 +1,5 @@
 # AlzGenPred
-<h3> A tool for the classification of Alzheimer's Disease assosiated genes. </h3>
+A tool for the classification of Alzheimer's Disease assosiated genes. 
 AlzGenPred is a CatBoost based method developed by using network-based features. It can classify the Alzheimer's Disease (AD) associated genes with 96.55% accuracy and 98.99% AUROC. AlzGenPred is developed as a standalone software package for the classification of AD genes. The method is tested on the 
 [AlzGene dataset](http://www.alzgene.org/) and it outperformed with 96.43% accuracy. The accuracy on the experimental data represents that the AlzGenPred can correctly classify the AD-associated genes. Additionaly, the AlzGenPred is also validated on the transcriptomics dataset.
 
