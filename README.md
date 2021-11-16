@@ -33,4 +33,10 @@ After successful installation of all the dependencies, execute the “AlzGenPred
                                 or
         $ python AlzGenPred.py -f topological_features.csv
 
-If you are not aware about the feature generation (topological_features.csv) then please refer to the well documented tutorial (feature_generation_manual.pdf) given in the same repository.
+<h3> Input Preparation </h3>
+If you are not aware about the feature generation (topological_features.csv) then please refer to the <b>well documented tutorial (feature_generation_manual.pdf)</b> given in the same repository.
+
+<h3> Output File </h3>
+User will get the prediction result in an output file <b> Output_AD_classification.csv </b> consisting of Gene name, prediction and prediction probability score in the AlzGenPred folder.
+
+
