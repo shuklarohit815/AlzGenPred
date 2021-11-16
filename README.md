@@ -28,6 +28,6 @@ After successful installation of all the dependencies, execute the “AlzGenPred
 
         $ python AlzGenPred.py --file topological_features.csv
 or        
-        $ python AlzGenPred.py -f topological_features.csv
+    $ python AlzGenPred.py -f topological_features.csv
 
 If you are not aware about the feature generation (topological_features.csv) then please use the given well documented tutorial (files/feature_generation_manual.pdf).
