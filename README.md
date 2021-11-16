@@ -27,7 +27,7 @@ After that invoke the tool with the below given command for detail help.
 After successful installation of all the dependencies, execute the “AlzGenPred.py” script using the below given command from any editor. The AlzGenPred.py and topological_features.csv are available in this repository.
 
         $ python AlzGenPred.py --file topological_features.csv
-        or
+                                or
         $ python AlzGenPred.py -f topological_features.csv
 
 If you are not aware about the feature generation (topological_features.csv) then please use the given well documented tutorial (files/feature_generation_manual.pdf).
