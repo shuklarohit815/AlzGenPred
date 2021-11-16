@@ -41,7 +41,7 @@ User will get the prediction result in an output file <b> Output_AD_classificati
 
 <h4> If you are getting the CatBoost model version error so please use the <b>Generate_CB_model.py</b> script and generate the model using the <b>selected_4_features.csv</b> in your computer so you will not get any error. These both files are available in the same repository. </h4>
 
-                           If you are still facing any error. Please feel free to write at shuklarohit815@gmail.com
-                                                        Happy classification 😊
+               If you are still facing any error. Please feel free to write at shuklarohit815@gmail.com
+                                       Happy classification 😊
 
 
