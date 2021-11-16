@@ -21,7 +21,7 @@ After that invoke the tool with the below given command for detail help.
 
     $ python AlzGenPred.py -h
 
-![Usage](AlzGenPred_usage.png)
+![Usage](AlzGenPred_usage.PNG)
 
 
 After successful installation of all the dependencies, execute the “AlzGenPred.py” script using the below given command from any editor. The AlzGenPred.py and topological_features.csv are available in this repository.
