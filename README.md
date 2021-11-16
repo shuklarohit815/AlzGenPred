@@ -1,2 +1,2 @@
 # AlzGenPred
-This tool will classify the AD associated genes using the CatBoost algorithm. It will write the result in the Output_AD_classification.csv"" file and will keep it in the same folder. Please provide the topogological features in the described format. If you are not aware about feature generation so please see the feature_generation_manual.docx and topological_features.csv from https://github.com/shuklarohit815/AlzGenPred and prepare the input accordingly.
+A tool for the classification of Alzheimer's Disease assosiated genes.
