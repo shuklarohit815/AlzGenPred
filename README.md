@@ -7,7 +7,7 @@ The complete dataset used in training and testing the developed method can be do
 # Usage:
 <h3> Dependencies </h3>
 
-This software requires the Python 3.0 or above to be install on your system. If you donot have Python in your system so please install the python by using this link https://www.python.org/downloads/. Then install the following dependencies by typing the command <h2>“pip install dependency_name”</h2> in the command prompt.
+This software requires the Python 3.0 or above to be install on your system. If you donot have Python in your system so please install the python by using this link https://www.python.org/downloads/. Then install the following dependencies by typing the command <h4>“pip install dependency_name”</h4> in the command prompt.
 
 1. Pandas
 2. Pickle
