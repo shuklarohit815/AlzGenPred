@@ -7,7 +7,7 @@ The complete dataset used in training and testing the developed method can be do
 # Usage:
 <h3> Dependencies </h3>
 
-This software requires the Python 3.0 or above to be install on your system. If you donot have Python in your system so please install the python by using this link https://www.python.org/downloads/. Then install the following dependencies by typing the command “pip install dependency_name” in the command prompt.
+This software requires the Python 3.0 or above to be install on your system. If you donot have Python in your system so please install the python by using this link https://www.python.org/downloads/. Then install the following dependencies by typing the command <h2>“pip install dependency_name”</h2> in the command prompt.
 
 1. Pandas
 2. Pickle
@@ -17,6 +17,6 @@ This software requires the Python 3.0 or above to be install on your system. If 
 
 After successful installation of all the dependencies, execute the “AlzGenPred.py” script using the below given command from any editor. The AlzGenPred.py and topological_features.csv are available in this repository.
 
-        $python AlzGenPred.py --file topological_features.csv
+        $ python AlzGenPred.py --file topological_features.csv
 
 If you are not aware about the feature generation (topological_features.csv) then please use the given well documented tutorial (files/feature_generation_manual.pdf).
