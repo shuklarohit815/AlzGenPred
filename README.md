@@ -9,7 +9,7 @@ The complete dataset used in training and testing the developed method can be do
 
 This software requires the Python 3.0 or above to be install on your system. If you donot have Python in your system so please install the python by using this link https://www.python.org/downloads/. Then install the following dependencies by typing the below given command.
 
-    $pip install dependency_name
+    $ pip install dependency_name
 
 1. Pandas
 2. Pickle
@@ -17,7 +17,7 @@ This software requires the Python 3.0 or above to be install on your system. If 
 4. Scikit-learn
 5. CatBoost
 
-After successful installation of all the dependencies, execute the “AlzGenPred.py” script using the below given command from any editor. The AlzGenPred.py and topological_features.csv are available in this repository.
+    After successful installation of all the dependencies, execute the “AlzGenPred.py” script using the below given command from any editor. The AlzGenPred.py and topological_features.csv are available in this repository.
 
         $ python AlzGenPred.py --file topological_features.csv
 
